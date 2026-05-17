@@ -85,7 +85,7 @@ def demo_message():
 def exercise_multi_model(question: str, models: list[str]) -> dict[str, str]:
     """
     EXERCISE: Create a function that:
-    1. Takes a question and a list of model names
+    1. Takes a question and a list of model names (e.g. ["gpt-4o-mini", "gpt-4o"])
     2. Gets responses from all models
     3. Returns a dict of {model_name: response}
 
