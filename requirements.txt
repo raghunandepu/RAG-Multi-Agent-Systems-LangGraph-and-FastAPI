@@ -11,6 +11,7 @@ langgraph>=1.0.0
 langchain-openai>=1.0.0
 langchain-anthropic>=1.0.0
 langchain
+langchain-chroma
 # Search tools
 ddgs>=9.5.2
 
